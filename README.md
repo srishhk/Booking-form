@@ -1,11 +1,10 @@
 
----
 
 # Doctor Appointment Booking Form
 
 A responsive **Doctor Appointment Booking Form** built with **React.js** and **Tailwind CSS**. Users can easily book appointments by filling in the required details.
 
----
+
 
 ## Features
 
@@ -13,7 +12,6 @@ A responsive **Doctor Appointment Booking Form** built with **React.js** and **T
 - **Built with React**: Dynamic form handling.
 - **Styled with Tailwind CSS**: Clean, modern UI with utility-first styling.
 
----
     
 ## 🚀 Technologies Used
 
@@ -24,7 +22,7 @@ A responsive **Doctor Appointment Booking Form** built with **React.js** and **T
   - React.js
   - Tailwind CSS
 
----
+
 
 ## Installation
 
@@ -45,5 +43,5 @@ A responsive **Doctor Appointment Booking Form** built with **React.js** and **T
      ```
      The application will start on `http://localhost:3000/`. Open this URL in your browser to access Doctor Appointment Booking Form.
 
----
+
     
